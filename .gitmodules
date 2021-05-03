@@ -1,0 +1,6 @@
+[submodule "Hands-On-Frontend"]
+	path = Hands-On-Frontend
+	url = https://github.com/Abufarhah/Hands-On-Frontend.git
+[submodule "Hands-On-Backend"]
+	path = Hands-On-Backend
+	url = https://github.com/Abufarhah/Hands-On-Backend.git
